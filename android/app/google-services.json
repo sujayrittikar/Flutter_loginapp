@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "690883464968",
+    "firebase_url": "https://chikitsak-login.firebaseio.com",
+    "project_id": "chikitsak-login",
+    "storage_bucket": "chikitsak-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690883464968:android:e07f1d9b550f64e72226bd",
+        "android_client_info": {
+          "package_name": "com.example.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690883464968-0794es898uh33nf5rhfv2r67msi6hguu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginapp",
+            "certificate_hash": "1b005e74e7bedde487ea8e84b80296cdcfb43adc"
+          }
+        },
+        {
+          "client_id": "690883464968-l6jq1l0vc5a7ec9lak528nsamjv8hedl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOS86XZus_d4Y6FrBG02nVyj90lG3MpTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690883464968-l6jq1l0vc5a7ec9lak528nsamjv8hedl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
